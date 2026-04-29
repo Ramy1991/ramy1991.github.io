@@ -21,7 +21,7 @@ portfolio/
 2. Upload `index.html`, `style.css`, and all assets to the root
 3. Go to **Settings → Pages**
 4. Set source to **Deploy from a branch** → select `main`
-5. Visit https://ramygharib.github.io — it's live!
+5. Visit  https://ramygharib.is-a.dev — it's live!
 
 ## 🛠 Built With
 
