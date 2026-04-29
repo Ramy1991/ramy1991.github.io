@@ -34,7 +34,7 @@ portfolio/
 
 Feel free to reach out or connect with me!
 
-- GitHub: [@ramygharib](https://github.com/ramygharib)
+- GitHub: [@ramygharib](https://github.com/Ramy1991)
 - Portfolio: https://ramygharib.github.io
 
 ---
